@@ -114,8 +114,8 @@ td {
 }
 
 .menu-toggle {
-	right: auto;
-	left: 0;
+	right: 0;
+	left: auto;
 }
 
 
